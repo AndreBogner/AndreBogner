@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<h1 align="center">Hi 👋, I'm Andre</h1>
+<h3 align="center></h3>
+
+![Metrics](https://github.com/AndreBogner/AndreBogner/blob/master/github-metrics.svg)
