@@ -13,9 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<h1 align="center">Hi 👋, I'm Andre</h1>
-<h3 align="center></h3>
-  
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" ></p>
